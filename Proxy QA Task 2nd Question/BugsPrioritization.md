@@ -1,4 +1,4 @@
-Bugs Prioritaztion 
+# Bugs Prioritaztion 
 
 
 ## Bug #1
